@@ -36,11 +36,10 @@
 <p align="left">
 - 🌱 I’m currently learning **Generative AI and Data Engineering Concepts**<br><br>
 - 👯 I’m looking to collaborate on **Machine Learning, Generative AI, or Data Engineering projects**<br><br>
-- 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/KASAM-SAI-VENKATA-SIDDARDHA](https://codebasics.io/portfolio/KASAM-SAI-VENKATA-SIDDARDHA)<br><br>
+- 👨‍💻 All of my projects are available on my <a href="https://codebasics.io/portfolio/KASAM-SAI-VENKATA-SIDDARDHA"><img src="https://img.shields.io/badge/CodeBasics-Portfolio-black?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a><br><br>
 - 📫 How to reach me **siddukasam28@gmail.com**<br><br>
-- 📄 Know about my experiences [https://www.linkedin.com/in/sai-venkata-siddardha-kasam](https://www.linkedin.com/in/sai-venkata-siddardha-kasam)
+- 📄 Know about my experiences on <a href="https://www.linkedin.com/in/sai-venkata-siddardha-kasam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
-
 ###
 
 <h3 align="left">🛠 Languages and Tools:</h3>
