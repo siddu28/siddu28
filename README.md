@@ -40,7 +40,7 @@
 - 📫 How to reach me **siddukasam28@gmail.com**<br><br>
 - 📄 Know about my experiences on <a href="https://www.linkedin.com/in/sai-venkata-siddardha-kasam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
-###
+
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 
