@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Siddharth!</h1>
+<h1 align="center">Hi 👋, I'm Siddardha!</h1>
 <h3 align="center">Aspiring Data Scientist & AI/ML Engineer</h3>
 
 ###
