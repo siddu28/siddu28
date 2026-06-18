@@ -99,15 +99,3 @@
   <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logoColor=white" alt="NLTK" />
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />
 </div>
-
-###
-
-<h3 align="left">🔥  My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=siddu28&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
